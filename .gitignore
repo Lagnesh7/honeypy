@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# SSH Keys (do NOT push these)
+server.key
+server.key.pub

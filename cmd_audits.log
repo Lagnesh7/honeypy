@@ -1,0 +1,5 @@
+
+2025-08-04 22:09:33,645 - 127.0.0.1, username, password
+2025-08-04 22:09:49,620 - Command b'ls'executed by 127.0.0.1
+2025-08-04 22:09:52,611 - Command b'cat'executed by 127.0.0.1
+2025-08-04 22:09:54,280 - Command b'pwd'executed by 127.0.0.1
